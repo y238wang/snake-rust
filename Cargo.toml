@@ -1,0 +1,11 @@
+[package]
+name = "snake-rust"
+version = "0.1.0"
+edition = "2021"
+description = "Classic Snake game in the terminal, built in Rust"
+authors = ["Ivan"]
+license = "MIT"
+
+[dependencies]
+crossterm = "0.28"
+rand = "0.8"
